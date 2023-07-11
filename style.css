@@ -160,6 +160,22 @@ span{
 .deal-title{
     margin-bottom:-8px;
 }
+/* extra section styles */
+.special-section{
+    width: 100%;
+    height: 50vh;
+    background-color:rgba(170, 31, 73, 0.486);
+    display:;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.rose{
+    width: 270px;
+}
 /* instagram section styles */
 .insta-text{
     text-align: center;
