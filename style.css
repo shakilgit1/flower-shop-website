@@ -50,6 +50,87 @@ body{
 }
 
 /* feature section styles */
+.feature-title{
+    text-align: center;
+}
+.our-feature-section{
+    margin-bottom: 50px;
+}
+.pink-tree{
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px 0;
+}
+.pink-tree3{
+    text-align: center;
+    text-decoration: underline;
+    margin: 12px 0;
+}
+.pink-tree2{
+    text-align: center;
+    text-decoration: underline;
+    margin: 40px 0;
+}
+.all-flower{
+    display:flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    padding:30px;
+}
+.flowers1{
+    width: 270px;
+    height: 350px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 200px 200px 0 0;
+
+}
+.flowers2{
+    width: 270px;
+    height: 350px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 200px 200px 0 0;
+
+}
+.flowers3{
+    width: 270px;
+    height: 350px;
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 200px 200px 0 0;
+
+}
+
+.flowers-pic{
+    width: 70%;
+    margin-top: 90px;
+    margin-left: 30px;
+    
+}
+.flowers-pic2{
+    width: 90%;
+    margin-top: 75px;
+    margin-left: 20px;
+    
+     
+}
+.flowers-pic3{
+    width: 70%;
+    margin-top: 60px;
+    margin-left: 40px;
+    
+}
+.pink{
+    text-align: center;
+}
+.flower-title{
+   margin-top: 100px;
+   margin-bottom: 20px;
+}
+.title{
+    margin-bottom: 20px;
+}
 /* hot deal section styles */
 .hot-deal-section{
     width: 100%;
