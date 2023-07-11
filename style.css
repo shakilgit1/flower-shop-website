@@ -79,7 +79,7 @@ span{
 .deal-title{
     margin-bottom:-8px;
 }
-/* this is instagram section styles */
+/* instagram section styles */
 .insta-text{
     text-align: center;
     align-items: center;
@@ -106,4 +106,67 @@ span{
     width: 250px;
     height: 250px;
     margin-right: 10px;
+}
+/* latest deals section styles */
+.latest-deals{
+    width: 78%;
+    height: 40vh;
+    background-image: url('./images/Rectangle\ 9.png');
+    background-position:center;
+    background-size: cover;
+    margin: 80px auto;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  
+    
+}
+.parent{
+    padding-top: 90px;
+   
+}
+.get-title{
+    margin-bottom: 10px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    
+}
+.email-box input{
+    padding: 10px 130px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: right;
+    font-size: 10px;
+}
+/* footer styles */
+.footer-section{
+    width: 100%;
+    height: 45vh;
+    background-color: #111010;
+    justify-content: center;
+    text-align: center;
+    
+}
+.foot-des{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    margin-top: 20px;
+}
+.foot-title{
+    color: white;
+    margin-bottom: 20px;
+}
+.footer-text{
+    padding:100px 0;
+
 }
